@@ -27,3 +27,6 @@ The pipeline exports the following for deployment (e.g., via Streamlit):
 1. best_ids_model.pkl: The trained XGBoost model and optimal decision threshold (0.54).
 2. scaler.pkl: StandardScaler fit on the training data.
 3. label_info.pkl: Metadata regarding attack types and dataset statistics.
+
+
+![](https://komarev.com/ghpvc/?username=Stuti-commits&color=blue)
